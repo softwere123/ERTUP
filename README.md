@@ -1,2 +1,2 @@
 # ERTUP
-Elemental Robot TUP
+This Project about Elemental Robot TUP & MR & Server
